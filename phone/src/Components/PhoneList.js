@@ -37,6 +37,7 @@ const PhoneList = (props) => {
     return(
             <div className="ui container">
                 <div className="ui relaxed divided items">
+                    <br></br>
                    {renderedPhones}
                 </div>
             </div>
